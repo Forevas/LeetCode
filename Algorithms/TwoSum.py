@@ -46,3 +46,6 @@ s2=Solution2()
 r1=s1.twoSum([2,7,11,15],9)
 r2=s2.twoSum([2,7,11,15],9)
 print(r1,r2)
+'''
+总结:将下标用dict存起来,数值作为key,下标作为value
+'''
